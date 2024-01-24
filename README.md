@@ -9,7 +9,7 @@ Over a year ago, I transitioned my career to become a web developer focusing on 
 * 🌍  I'm based in Astana, Kazakhstan
 * ✉️  You can contact me at [Georgievsky96@gmail.com](mailto:Georgievsky96@gmail.com)
 * 🚀  I'm currently working on [Web application for enduro-bikes rental](http://github.com/jespy666/btr_rental)
-* 🧠  I'm learning react
+* 🧠  I'm learning DjangoRestFramework
 * 🤝  I'm open to collaborating on Any projects as backend developer
 * ⚡  I’m also learning adaptive layout using bootstrap.
 
