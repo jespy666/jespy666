@@ -18,6 +18,7 @@ def hello_there():
 
 ## My stack
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,flask,git,postgres,mysql,mongodb,redis,nginx,docker,html,css,bootstrap,postman,regex,bash,linux)](https://skillicons.dev)  
-### My stats
+### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jespy666&hide=issues,contribs&show_icons=true&theme=radical)  
+### Streaks
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jespy666&theme=radical&show_icons=true)  
