@@ -10,7 +10,7 @@ def hello_there():
         "English": "B2"
     }]
     location = 'world'
-    status = 'in search of work'
+    status = 'working from world'
 ```
 ## Contact me
 [![Static Badge](https://img.shields.io/badge/Telegram-%40jespy666-blue?style=for-the-badge)](https://t.me/Jespy666)  
