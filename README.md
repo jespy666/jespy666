@@ -13,7 +13,7 @@ def hello_there():
     status = 'working from world'
 ```
 ## Contact me
-[![Static Badge](https://img.shields.io/badge/Telegram-%40jespy666-blue?style=for-the-badge)](https://t.me/Jespy666)  
+[![Static Badge](https://img.shields.io/badge/Telegram-%40jespy666-blue?style=for-the-badge)](https://t.me/Anton_Georgievsky)  
 [![Static Badge](https://img.shields.io/badge/gmail-georgievsky96%40gmail.com-red?style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=georgievsky96@gmail.com&su=Hello&body=How%20are%20you%3F)
 
 ## My stack
