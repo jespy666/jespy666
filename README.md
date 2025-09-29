@@ -20,7 +20,9 @@ Product decisions made with **business requirements** in mind; always ready to e
 
 ## Contact me
 [![Static Badge](https://img.shields.io/badge/Telegram-%40jespy666-blue?style=for-the-badge)](https://t.me/Anton_Georgievsky)  
-[![Static Badge](https://img.shields.io/badge/gmail-georgievsky96%40gmail.com-red?style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=georgievsky96@gmail.com&su=Hello&body=How%20are%20you%3F)
+[![Static Badge](https://img.shields.io/badge/gmail-georgievsky96%40gmail.com-red?style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=georgievsky96@gmail.com&su=Hello&body=How%20are%20you%3F)  
+
+WhatsApp: [+77077626627](#)
 
 ## My stack
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,git,postgres,mysql,mongodb,redis,nginx,docker,html,css,bootstrap,postman,regex,bash,linux,ai,js,react,redux)](https://skillicons.dev)  
